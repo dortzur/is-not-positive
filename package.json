@@ -1,6 +1,6 @@
 {
   "name": "is-not-positive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if a number is not positive. Sitting on the shoulders of giants.",
   "main": "index.js",
   "scripts": {
