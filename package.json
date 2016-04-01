@@ -1,7 +1,7 @@
 {
   "name": "is-not-positive",
   "version": "1.0.0",
-  "description": "Checks if a number is not positive. Resting on the shoulders of giants.",
+  "description": "Checks if a number is not positive. Sitting on the shoulders of giants.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
